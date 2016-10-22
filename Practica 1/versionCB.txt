@@ -1,0 +1,11 @@
+        Acerca de CodeBreaker         *
+                                      *
+Practica 1 Version 4 - (12/12/2013)   *
+                                      *
+Fundamentos de la Programacion        *
+Facultad de Informatica               *
+Universidad Complutense de Madrid     *
+                                      *
+Autores:                              *
+  Noel Algora Igual   | Grupo: L1-G01 *
+  Ivan Aguilera Calle | Grupo: L1-G01 *
